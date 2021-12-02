@@ -1,2 +1,2 @@
 # aoc_2021_python
-Python based Advent of Code solutions
+Advent of Code solutions in Python
